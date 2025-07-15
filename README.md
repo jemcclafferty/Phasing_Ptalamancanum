@@ -1,4 +1,4 @@
-# Phasing_Ptalamancanum
+# Phasing Polystichum talamancanum
 
 This repository contains MSA data and analysis code used to to identify the unknown progenitor of P. talamancanum through variant phasing of target-capture data, as described in:
 
