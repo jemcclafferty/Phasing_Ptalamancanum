@@ -3,7 +3,7 @@
 This repository contains MSA data and analysis code used to to identify the unknown progenitor of P. talamancanum through variant phasing of target-capture data, as described in:
 
 **Phasing of Target-Capture Sequence Data Reveals the Andean Progenitor of the Central American Endemic Allotetraploid _Polystichum talamancanum_ (Dryopteridaceae)**
-By Julia E. McClafferty, Weston L. Testo, GoFlag Consortium, and David S. Barrington
+Julia E. McClafferty, Weston L. Testo, GoFlag Consortium, and David S. Barrington
 
 Please contact julia.mcclafferty@univie.ac.at with any questions or requests for further information.
 
