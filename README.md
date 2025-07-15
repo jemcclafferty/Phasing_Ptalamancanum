@@ -5,8 +5,9 @@ This repository contains MSA data and analysis code used to to identify the unkn
 **Phasing of Target-Capture Sequence Data Reveals the Andean Progenitor of the Central American Endemic Allotetraploid _Polystichum talamancanum_ (Dryopteridaceae)**
 By Julia E. McClafferty, Weston L. Testo, GoFlag Consortium, and David S. Barrington
 
-If you have any questions or need further information, feel free to reach out to me at julia.mcclafferty@univie.ac.at.
-Raw sequencing data are publicly available in the NCBI SRA under BioProject **PRJNA1255750**.
+Please contact julia.mcclafferty@univie.ac.at with any questions or requests for further information.
+
+Raw sequence data are publicly available in the NCBI SRA under BioProject **PRJNA1255750**.
 
 Within the Data folder, you’ll find:
 * Voucher details for the samples in this study  
