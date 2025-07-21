@@ -13,4 +13,4 @@ Within the Data folder, you’ll find:
 * Voucher details for the samples in this study  
 * Multiple sequence alignments for both target-only and target-plus-flanking regions, generated with GoFlag references, HybPiper, and HybPhaser 
 * Gene trees derived from these alignments 
-* Species trees inferred through concatenated and multispecies coalescent approaches
+* Species trees inferred through supermatrix and multispecies coalescent approaches
