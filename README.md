@@ -9,7 +9,7 @@ Please contact julia.mcclafferty@univie.ac.at with any questions or requests for
 
 Raw sequence data are publicly available in the NCBI SRA under BioProject **PRJNA1255750**.
 
-In this repo, you’ll find:
+Within this repo, you’ll find:
 * Voucher details for the samples in this study  
 * Multiple sequence alignments for both target-only and target-plus-flanking regions, generated with GoFlag references, HybPiper, and HybPhaser 
 * Gene trees derived from these alignments 
