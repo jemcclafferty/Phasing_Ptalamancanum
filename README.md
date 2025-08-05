@@ -11,7 +11,7 @@ Raw sequence data are publicly available in the NCBI SRA under BioProject **PRJN
 
 Within this repo, you’ll find:
 * Voucher details for the samples in this study
-* Assembled sequences, including both target-only regions and target-plus-flanking regions (supercontigs) generated using GoFlag reference and HybPiper. Phased sequences for_P. talamancanum _from the HybPhaser workflow assembled with GoFlag reference and HybPiper. 
+* Assembled sequences, including both target-only regions and target-plus-flanking regions (supercontigs) generated using GoFlag reference and HybPiper. Phased sequences for _P. talamancanum_ from the HybPhaser workflow assembled with GoFlag reference and HybPiper. 
 * Multiple sequence alignments for both target-only and target-plus-flanking regions (supercontigs), generated with GoFlag references and HybPiper. A multiple sequence alignment created from Hybphaser's loci consensus sequences containing the phased accessions of _P. talamancanum_ used to generate trees downstream.
 * Gene trees derived from alignments with phased accessions
 * Species trees inferred through supermatrix and multispecies coalescent approaches
