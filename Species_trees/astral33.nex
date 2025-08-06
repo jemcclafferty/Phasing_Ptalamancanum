@@ -1,0 +1,22 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=12;
+	taxlabels
+	Polystichum_concinnum_Sundue_1703
+	Polystichum_dubium_McHenry_11-23
+	Polystichum_lonchitis_Rothfels_4538
+	Polystichum_montevidense_Condack_687
+	Polystichum_orbiculatum_c2x_McHenry_10-75
+	Polystichum_orbiculatum_c2x_McHenry_10-761
+	Polystichum_platyphyllum_Leon_12295
+	Polystichum_polyphyllum_McHenry_10-51
+	Polystichum_pycnolepis__Morero_343
+	Polystichum_sodiroi_Holm-Nielson_16616
+	-Polystichum_talamancanum_Testo_699_to_concinnum
+	-Polystichum_talamancanum_Testo_699_to_polyphyllum
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Polystichum_sodiroi_Holm-Nielson_16616:1.0,(((Polystichum_orbiculatum_c2x_McHenry_10-75:1.0,Polystichum_orbiculatum_c2x_McHenry_10-761:1.0)[&label=1]:0.525899,(Polystichum_polyphyllum_McHenry_10-51:1.0,-Polystichum_talamancanum_Testo_699_to_polyphyllum:1.0)[&label=1]:0.240893)[&label=1]:0.480932,((Polystichum_lonchitis_Rothfels_4538:1.0,(Polystichum_concinnum_Sundue_1703:1.0,-Polystichum_talamancanum_Testo_699_to_concinnum:1.0)[&label=1]:1.319786)[&label=1]:0.576777,(Polystichum_dubium_McHenry_11-23:1.0,((Polystichum_montevidense_Condack_687:1.0,Polystichum_platyphyllum_Leon_12295:1.0)[&label=0.94,!rotate=true]:0.128383,Polystichum_pycnolepis__Morero_343[&!rotate=true]:1.0)[&label=0.6,!rotate=true]:0.063169)[&label=0.8]:0.086512)[&label=1]:0.4179):0.0);
+end;
